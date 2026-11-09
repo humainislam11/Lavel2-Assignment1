@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+  
+    "target": "es2016",                                  /* Set the JavaScript  */
+ 
+ 
+
+    /* Modules */
+    "module": "esnext",                               
+    "rootDir": "./src",                                 
+   "outDir": "./dist", 
+     "moduleDetection": "force", 
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+
+    /* Type Checking */
+    "strict": true,                                  
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  }
+}
